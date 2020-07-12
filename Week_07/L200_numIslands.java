@@ -1,4 +1,4 @@
-package Week4;
+package Week7;
 
 public class L200_numIslands {
 	public int numIslands(char[][] grid) {
